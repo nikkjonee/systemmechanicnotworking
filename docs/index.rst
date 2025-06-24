@@ -1,4 +1,4 @@
-How to Resolve System Mechanic Not Working?      //index.rst
+How to Resolve System Mechanic Not Working?
 ============================================
 
 .. toctree::
